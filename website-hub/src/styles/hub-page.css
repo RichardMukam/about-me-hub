@@ -1,0 +1,25 @@
+*
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Karla';
+}
+
+body
+{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: rgb(206, 225, 243);
+}
+
+#title-div
+{
+    text-align: center;
+}
+
+.title-text
+{
+    color: rgb(60, 149, 233);
+    font-size: 2rem;
+    line-height: 2.7rem;
+}
