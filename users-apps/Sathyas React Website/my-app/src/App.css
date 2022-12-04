@@ -1,0 +1,32 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: red;
+}
+
+h3 {
+  color: blue
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.tennis {
+  max-width: 20%;
+  max-height: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
+.athletes {
+  color : green
+}
