@@ -1,0 +1,46 @@
+.ana_react{
+    padding:50px;
+    float: left;
+    height: 100px;
+    width: 100px;
+    margin-left:10%;
+    text-align: 300px;
+}
+.apurva_react{
+    margin-top: 300px;
+    padding:50px;
+    float:left;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.sanjeev_react{
+    padding:50px;
+    float:left;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.anirudh_react{
+    padding:50px;
+    float:left;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.richard_react{
+    margin-top: 300px;
+    padding:50px;
+    float:left;
+    height: 100px;
+    width: 100px;
+}
+img{
+    height:225px;
+    width:300px;
+}
+
+button{
+    background-color: darkblue;
+    color:white;
+}
