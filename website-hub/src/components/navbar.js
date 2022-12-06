@@ -5,6 +5,9 @@ function Home() {
     return (
         <>
             <ul>
+                <Link to="/"> Home </Link>
+            </ul>
+            <ul>
                 <Link to="/sanjeev"> Sanjeev </Link>
             </ul>
             <ul>
