@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import './styles/hub-page.css'
 import Title from './components/title.js'
+import Navbar from './components/navbar.js'
 import {Routes, Route} from 'react-router-dom';
 
 import Sanjeev from './users-apps/Sanjeevs React Website/new-app1/src/App.js'
@@ -18,6 +19,7 @@ import Sathya from './users-apps/Sathyas React Website/my-app/src/App.js'
 export default function App() {
   return (
     <>
+      <Navbar />
       <Routes>
         <Route path='/' element={<Title />} />
         <Route path='/sanjeev' element={<Sanjeev />} />
