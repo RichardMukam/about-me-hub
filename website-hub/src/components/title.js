@@ -1,6 +1,6 @@
 import React from "react";
 import sanjeev from '../THORSEN_0469_JPG.jpeg';
-import image2 from '../IMG_1923.PNG'
+import image2 from '../IMG_4835 (1).jpg'
 import image3 from '../IMG_5585.jpg'
 import image4 from '../richardpic.jpg'
 import image5 from '../zelda-background1.jpg'
